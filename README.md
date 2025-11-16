@@ -1,4 +1,4 @@
-#  UOWD AI Team: Bi-Weekly Workshop Series (Autumn 2025)
+##  UOWD AI Team: Bi-Weekly Workshop Series (Autumn 2025)
 
 Hands-on code and resources prepared by the UOWD AI Team for our bi-weekly workshops, starting with **ML Foundations in Action** and progressing to **building an AI-powered app using deep learning**.
 
@@ -8,7 +8,7 @@ All notebooks and demos were developed collaboratively by the team.
 
 ---
 
-## 🧠 Workshop 1: *ML Foundations in Action*
+### 🧠 Workshop 1: *ML Foundations in Action*
 
 **Week 3 • Thursday • 4:30 PM – 6:30 PM • Room 6.36**
 
@@ -25,7 +25,7 @@ Understanding the ML workflow using real Kaggle data.
 
 ---
 
-## 🤖 Workshop 2: *Build Your First AI App (Deep Learning Edition)*
+### 🤖 Workshop 2: *Build Your First AI App (Deep Learning Edition)*
 
 **Week 7 • Thursday • 4:30 PM – 6:30 PM • Room 4.52**
 
@@ -50,8 +50,8 @@ Transitioning from basic ML to modern multimodal AI systems.
 ## 🔗 External Resources (Workshop 2)
 
 Some files are too large for GitHub and are hosted externally:
-- **[Audio Embeddings File]([https://your-google-drive-link.com](https://drive.google.com/file/d/1J75N4aCkkmcKbA0TicIHl7PLmXnlzkJ0/view?usp=sharing)**  
-- **[Workshop 2 Slides]([https://your-canva-link.com](https://www.canva.com/design/DAGoF_zbwPs/2wj7ZHKLDz_oxiAd1awa4w/edit?utm_content=DAGoF_zbwPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+- **[Audio Embeddings File](https://drive.google.com/file/d/1J75N4aCkkmcKbA0TicIHl7PLmXnlzkJ0/view?usp=sharing)**  
+- **[Workshop 2 Slides](https://www.canva.com/design/DAGoF_zbwPs/2wj7ZHKLDz_oxiAd1awa4w/edit?utm_content=DAGoF_zbwPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 
 ---
