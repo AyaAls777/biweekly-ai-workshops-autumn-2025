@@ -45,9 +45,7 @@ Students completed multiple hands-on activities:
 **Focus:**  
 Transitioning from basic ML to modern multimodal AI systems.
 
----
-
-## 🔗 External Resources (Workshop 2)
+### 🔗 External Resources (Workshop 2)
 
 Some files are too large for GitHub and are hosted externally:
 - **[Audio Embeddings File](https://drive.google.com/file/d/1J75N4aCkkmcKbA0TicIHl7PLmXnlzkJ0/view?usp=sharing)**  
